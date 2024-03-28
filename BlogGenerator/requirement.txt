@@ -1,0 +1,10 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+boto3
+awscli
+pypdf
+faiss-cpu
